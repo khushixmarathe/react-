@@ -1,14 +1,15 @@
-# My Project
+# Task Manager (React.js)
 
-This is a sample project structure (like React Native) with basic folders and configs.
+A simple React.js project to manage tasks.
 
-- `packages/`
-- `scripts/`
-- `jest/`
-- `private/`
-- `flow-typed/`
-- `gradle/wrapper/`
-- `.github/`
-- `__docs__/`
+## Features
+- Add tasks
+- Delete tasks
 
-It also includes config files like `.babelrc`, `.clang-format`, `.editorconfig`, `.eslintignore`.
+## Setup
+```bash
+npm install
+npm start
+```
+
+Then open `http://localhost:3000` in your browser.
